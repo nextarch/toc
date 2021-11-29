@@ -52,7 +52,7 @@ a. While the Project aims to operate as a consensus-based community, if any TOC 
 
 b. Quorum for TOC meetings requires at least fifty percent of all voting members of the TOC to be present. The TOC may continue to meet if quorum is not met but will be prevented from making any decisions at the meeting.
 
-c. Except as provided in Section 7.c. and 8.a in the Charter[link], decisions by vote at a meeting require a majority vote of those in attendance, provided quorum is met. Decisions made by electronic vote without a meeting require a majority vote of all voting members of the TOC.
+c. Except as provided in Section 7.c. and 8.a in the [Technical Charter](https://github.com/nextarch/foundation/blob/main/technical-charter.md), decisions by vote at a meeting require a majority vote of those in attendance, provided quorum is met. Decisions made by electronic vote without a meeting require a majority vote of all voting members of the TOC.
 
 d. In the event a vote cannot be resolved by the TOC, any voting member of the TOC may refer the matter to the Series Manager for assistance in reaching a resolution.
 
