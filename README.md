@@ -8,7 +8,7 @@ The NextArch TOC is the technical governing body of the NextArch Foundation. It 
 - aligning interfaces to components under management (code reference implementations before standardizing), and defining common practices to be implemented across NextArch projects, if any.
 
 ## Election schedule
-Candidate can nominate and participate in the election by submitting a [PR for approval](https://github.com/nextarch/toc/blob/main/doc/election.md). NextArch will vote for official TOC members at the collaborator meeting and announce it in real time at the meeting.
+Candidate can nominate and participate in the election by submitting a [PR for approval](docs/election.md). NextArch will vote for official TOC members at the collaborator meeting and announce it in real time at the meeting.
 
 
 ## Meeting Time
@@ -58,7 +58,7 @@ c. Except as provided in Section 7.c. and 8.a in the [Technical Charter](https:/
 d. In the event a vote cannot be resolved by the TOC, any voting member of the TOC may refer the matter to the Series Manager for assistance in reaching a resolution.
 
 ### Voting Policy
-This is our [voting policy](https://github.com/nextarch/toc/blob/main/doc/voting.md). Only TOC members can cast binding votes. (+1 Binding)
+This is our [voting policy](docs/voting.md). Only TOC members can cast binding votes. (+1 Binding)
 
 ## Special Interest Groups (SIGs) 
 The TOC will approved the formation of SIGs. Currently, the following Special Interest Groups are being considered:
