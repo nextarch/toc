@@ -7,7 +7,7 @@ Scale contributions by the NextArch Foundation technical and user community, whi
 NextArch SIGs will oversee and coordinate the interests pertaining to a logical area of needs of end users and/or projects. 
 The area overseen by a SIG is typically met by a set of NextArch Foundation projects, and may also represent a cross-cutting feature group shared by several projects. SIG’s are:
 
-long lived groups that report to the Technical Advisory Council
+long lived groups that report to the TOC
 led primarily by recognised experts in the relevant field(s), supported by other contributors
 
 ## Responsibilities & Empowerment of SIGs
