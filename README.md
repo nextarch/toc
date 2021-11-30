@@ -57,9 +57,10 @@ b. Quorum for TOC meetings requires at least fifty percent of all voting members
 
 c. Except as provided in Section 7.c. and 8.a in the [Technical Charter](https://github.com/nextarch/foundation/blob/main/technical-charter.md), decisions by vote at a meeting require a majority vote of those in attendance, provided quorum is met. Decisions made by electronic vote without a meeting require a majority vote of all voting members of the TOC.
 
-d. This is our [voting policy](https://github.com/nextarch/toc/blob/main/doc/voting.md). Only TOC members can cast binding votes. (+1 Binding)
+d. In the event a vote cannot be resolved by the TOC, any voting member of the TOC may refer the matter to the Series Manager for assistance in reaching a resolution.
 
-e. In the event a vote cannot be resolved by the TOC, any voting member of the TOC may refer the matter to the Series Manager for assistance in reaching a resolution.
+### Voting Policy
+This is our [voting policy](https://github.com/nextarch/toc/blob/main/doc/voting.md). Only TOC members can cast binding votes. (+1 Binding)
 
 ## Special Interest Groups (SIGs) 
 The TOC will approved the formation of SIGs. Currently, the following Special Interest Groups are being considered:
