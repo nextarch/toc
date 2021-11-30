@@ -10,7 +10,8 @@ The NextArch TOC is the technical governing body of the NextArch Foundation. It 
 ## Election schedule
 TOC usually consists of no more than 15 people. 
 
-Candidate can nominate and participate in the election by submitting a [PR for approval](https://github.com/nextarch/toc/blob/main/doc/election.md). NextArch will vote for official TOC members at the second Collaborator meeting and announce it in real time at the meeting.
+Candidate can nominate and participate in the election by submitting a [PR for approval](https://github.com/nextarch/toc/blob/main/doc/election.md). NextArch will vote for official TOC members at the collaborator meeting and announce it in real time at the meeting.
+
 
 ## Meeting Time
 TBD
