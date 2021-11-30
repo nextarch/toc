@@ -21,3 +21,5 @@ TBD
 
 ## How to Set Up SIGs
 You can set up a SIG by submitting a [PR for approval](https://github.com/nextarch/toc/blob/main/sigs/proposed.md).
+
+The proposed SIGs will be reported to the TOC, and the TOC will vote to determine the launch.
