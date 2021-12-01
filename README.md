@@ -32,7 +32,7 @@ d. Participation in the Project through becoming a Contributor and Committer is 
 
 e. The TOC may (1) establish work flow procedures for the submission, approval, and closure/archiving of projects, (2) set requirements for the promotion of Contributors to Committer status, as applicable, and (3) amend, adjust, refine and/or eliminate the roles of Contributors, and Committers, and create new roles, and publicly document any TOC roles, as it sees fit.
 
-f. The TOC may elect a TOC Chair, who will preside over meetings of the TOC and will serve until their resignation or replacement by the TOC.  The TOC Chair, or any other TOC member so designated by the TOC, will serve as the primary communication contact between the Project and the TARS Foundation of The Linux Foundation.
+f. The TOC may elect a TOC Chair, who will preside over meetings of the TOC and will serve until their resignation or replacement by the TOC.  The TOC Chair, or any other TOC member so designated by the TOC, will serve as the primary communication contact between the Project and the NextArch Foundation of The Linux Foundation.
 
 g. Responsibilities: The TOC will be responsible for all aspects of oversight relating to the Project, which may include:
 
