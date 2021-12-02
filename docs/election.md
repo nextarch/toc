@@ -6,4 +6,4 @@ Candidate can nominate and participate in the election by submitting a PR for ap
 
 | Name | Title|               Bio       |
 | ---- | -----| ------------------------|
-
+| Wen Yang | AfterShip Senior Manager | Open Source Fans, Creator of TalkGo |
