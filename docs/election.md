@@ -9,3 +9,7 @@ Candidate can nominate and participate in the election by submitting a PR for ap
 | Wen Yang | AfterShip Senior Manager | Open Source Fans, Creator of TalkGo |
 | Zhihong SHEN | Professor, Director of Big Data Department, CNIC-CAS(Computer Network Information Center, Chinese Academy of Sciences)
  | He is the chief engineer of the National and Local Joint Engineering Laboratory of Big Data Analysis and Computing Technology, in charge of the national key R & D plan project "scientific big data management system". He is responsible for the development of the open source big data pipeline system PiFlow, which was selected into the first batch of MULAN open source community incubation projects. PiFlow also won the new technology award of 2021 digital Expo for "leading scientific and technological achievements", and the excellent open source project award of China Open Source Cloud Alliance. |
+| Trista Pan | SphereEx co-founder&CTO | Apache member, Apache ShardingSphere PMC |
+| C.C. | Co-founder of Allegro Networks | maintainer of [hashids](https://hashids.org/) and [YoMo](https://yomo.run) |
+| Tianguo Xiao | CEO, Huayou Technology | XOps Practitioner, Founder of GreatOPS Community |
+| Mark Shan | Chair, Tencent Open Source Alliance | Board Observer, Linux Foundation |
