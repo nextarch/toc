@@ -14,3 +14,4 @@ Candidate can nominate and participate in the election by submitting a PR for ap
 | C.C. | Co-founder of Allegro Networks | maintainer of [hashids](https://hashids.org/) and [YoMo](https://yomo.run) |
 | Tianguo Xiao | CEO, Huayou Technology | XOps Practitioner, Founder of GreatOPS Community |
 | Mark Shan | Chair, Tencent Open Source Alliance | Board Observer, Linux Foundation |
+| Nan Qi |DiDi Principal Engineer | Years of Experience in distributed systems.I'm responsible for building software ecosystem around k8s in DiDi.|
