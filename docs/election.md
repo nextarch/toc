@@ -16,4 +16,3 @@ Candidate can nominate and participate in the election by submitting a PR for ap
 | Mark Shan | Chair, Tencent Open Source Alliance | Board Observer, Linux Foundation |
 | Nan Qi |DiDi Principal Engineer | Years of Experience in distributed systems.I'm responsible for building software ecosystem around k8s in DiDi.|
 | ZhiYong Dong | DongTai Product Manager | Years of Experience in application security, maintainer of [DongTai](https://dongtai.io/). Responsible for improving the core security capabilities of IAST and building a DevSecOps ecosystem based on IAST. |
-| Gary Xu | Technical partner of Harmonycloud | Domestic cloud native evangelist, with more than 10 years of IT basic platform research and development experience. Chief designer of Harmonycloud super large scale container PaaS platform, financial cloud capability open platform and hybrid cloud platform. |
