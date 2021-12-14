@@ -32,3 +32,27 @@ Candidate can nominate and participate in the election by submitting a PR for ap
 | Zhao Zheng | VP of Engineering & Principle Infrastructure Architect, 4Paradigm| Zhao is leading the whole engineering function at 4Paradigm. He dedicates to lower the barriers of scaling AI technology and advance AI for everyone. Before joining 4Paradigm, Zhao has years of working experience on large-scale machine learning system, recommender system and distributed system. He won ACM-ICPC world championship, as well as the 2011 KDD Cup Best Single Model Award. | 
 |TJ Tang| Tapdata Founder & CEO | Former rock band member, world traveler, open source software advocate, founder of MongoDB Chinese Community. Previously worked at MongoDB. Founded Tapdata in 2019, currently focusing on building a heterogeneously replicated data platform that is capable of providing consistency guarantee to the data driven applications  | tj@tapdata.io |
 | Feng Wang | Head of Infrastructure of Qihoo360, Toc Member of OpenAtom foundation. | Thirteen years of experience in infrastructure, including cloud native, storage, and bitdata. | fengw136@gmail.com |
+| Tina Tsou | Enterprise Architect, Arm; TSC Chair, Akraino | Passion - community building, technology enablement, mentoring new open source developers and contributors
+
+Experience –
+
+•	Enterprise Architect, Arm (currently)
+o	Design and implement ARM open-source technical strategies and ecosystem building. 
+o	Build win-win partnerships and grow communities to support ARM invested open source projects
+o	Specialize in 5G, AI Edge, Cloud Computing, HPC, NFV/SDN open source initiatives; open source development tools, processes, build systems, packaging, continuous integration, and test methodologies.
+o	Have been deeply involved in the LF Edge Akraino project for ~4 years. Currently serving as the Chair of TSC for the Akraino project (1+ year as Chair, 2+ years as co-Chair)
+o	Regularly host large technical meetings to help grow the Akraino project 
+o	During the pandemic, lead and supported various developers/contributors virtual events to keep the Akraino momentum going
+o	Regular blogger, blueprint submission as well as reviews and approvals  
+o	Integrated LF Edge projects like EdgeX Foundry, Fledge, EVE, etc.
+o	Success in building the Akraino Community Lab which was later transformed into LF Edge Community Lab
+o	Collaboration with upstream communities like CNCF, ETSI MEC, O-RAN, etc.
+.
+•	Prior to Arm, I worked in various technical leadership positions in the area of Connectivity, NB-IoT solution, IPv6 network migration, etc.
+•	I have also been awarded 100+ patents and 15 IETF RFCs. 
+•	10+ years of work experience of open source
+•	Mother of two children; animal lover (currently has 2 dogs, 2 cats, 2 rabbits, 2 chickens, 2 birds, 1 fish in our family)
+
+
+
+ | tina.tsou@arm.com |
