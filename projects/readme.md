@@ -3,9 +3,19 @@
 ## Introduction
 This governance policy sets forth the proposal process for projects to be accepted into the NextArch Foundation. 
 
+## Project Landscape
+
+The Project Landscape contains all donated, collaborated, upstream, downstream projects in NextArch Foundation.
+
+The information should contain the project name, Area, Abstract, Link, SIG belonging, and Introduction Materials.
+
+You can update the project-landscape by setting a [Pull Request](project-landscape.md) to submit projects.
+
 ## Project stages
 NextArch projects have a maturity level of incubating and graduated, which corresponds to the Innovators, Early Adopters, and Early Majority tiers of the Crossing the Chasm diagram. 
+
 The maturity level is a signal by NextArch as to what sorts of enterprises should be adopting different projects. 
+
 Projects increase their maturity by demonstrating their sustainability to NextArch’s Technical Oversight Committee(TOC).
 
 ### Project donation process
