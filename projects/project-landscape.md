@@ -5,6 +5,6 @@ The Project Landscape contains all donated, collaborated, upstream, downstream p
 The information should contain the project name, Area, Abstract, Link, SIG belonging, and Introduction Materials.
 
 
-| Project Name  |    Area     |  Absract  |  Link | SIG Belonging  | Responsible person | Email | Introduction Materials | 
-| --------------|-------------|-----------|-------|----------------| -------------------|-------|----------------------- | 
+| Project Name  |    Area     |  Absract  |  Link | SIG Belonging  | Contact | Email | Introduction Materials | 
+| --------------|-------------|-----------|-------|----------------| --------|-------|----------------------- | 
 |||||||||
