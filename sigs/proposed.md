@@ -10,4 +10,5 @@ A new repo of the SIG will be created after that.
 | Name (to be finalised)  |    Area     |  SIG Abstract  |  SIG Goal  | PPT/Doc or Any Reference| 
 | ------------------------|-------------|---------------|------------| ----------------------- | 
 | SIG-Edge (Proposal)| Edge Computing | Edge computing includes many concepts, include On-Premise solution, Distributed Cloud, Geo-distributed Database, Edge-aware Serverless, etc., which can be roughly understood as "non-public cloud" architecture projects. | Clarify landscape, manage sub SIG-Edge, Collaborate and interrelate projects, Atract new projects.  |  | 
+| SIG-MSG (Proposal)| Streaming and Messaging | Streaming and Messaging projects are the key architect component of the enterprise infrastructure, which include Apache Pulsar, Apache Kafka, RabitMQ, etc.  | Clarify landscape, manage sub SIG-MSG, Collaborate and interrelate projects, Atract new projects.  |  | 
 
