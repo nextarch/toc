@@ -24,7 +24,7 @@ Projects increase their maturity by demonstrating their sustainability to NextAr
   - If the project doesn’t belong to any existing SIG, you can submit an issue in the toc repo to discuss whether to set up a new SIG.
 
 - The SIG that the new project belongs will review the project and give advice. After improvement, the SIG Tech Leader will recommend the project to TOC.
-- TOC will vote for the project at the TOC meeting and announce it at the meeting (approved by a two-thirds vote).
+- TOC will vote for the project at the TOC meeting and announce it at the meeting (approved by at least fifty percent).
 - The incubation of the projects will be determined by TOC in the future.
 
 ### Incubation process
@@ -35,7 +35,7 @@ All exceptions (and "no" outcomes) are handled by the TOC.
 
 2. TOC Review
    - The TOC may agree that the project does not (yet) meet the Incubation requirements and give feedback on why this is the case. 
-   - TOC reviews proposal and presentation materials in issue, project passes for inclusion with two-thirds vote of TOC
+   - TOC reviews proposal and presentation materials in issue, project passes for inclusion with at least fifty percent of TOC
    - TOC may engage with project to ask further questions
    - If the vote is not conclusive after 6 weeks, TOC may extend vote, or conclude that silence = abstain
 
