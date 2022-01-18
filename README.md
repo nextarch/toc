@@ -13,7 +13,19 @@ Candidate can nominate and participate in the election by submitting a [PR for a
 
 
 ## Meeting Time
-TBD
+- **Every other Thursday at 05 pm Pacific Time / 9 am UTC+8 Beijing Time**.
+
+- **Zoom Meeting:** 
+https://zoom.us/j/99538043503?pwd=SXI5alZSVG5TQ3E0aURRUllTOHV6QT09
+
+  You could also add this meeting to your calendar by downloading [NextArch TOC Meeting.ics](https://zoom.us/meeting/tJ0odOGoqjgvGtf6yhpbV1hNhbpUyzOBZqoI/ics?icsToken=98tyKuChqzgiGtCWtRmERox5GYjCWfTwiHZYjbdbygbtEyJlMwvYPuBSB6tlP_rq)
+
+- **Working Doc and Agenda:**
+
+  https://docs.google.com/document/d/1Md45HROaYR2172l6YYum9QTZKeRWnivkvQVm18W6NuI/edit?usp=sharing
+
+
+
 
 ## TOC Responsibilities
 a. The TOC will be responsible for all technical oversight of the open source Project. 
