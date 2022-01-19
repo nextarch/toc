@@ -24,8 +24,8 @@ https://zoom.us/j/99538043503?pwd=SXI5alZSVG5TQ3E0aURRUllTOHV6QT09
 
   https://docs.google.com/document/d/1Md45HROaYR2172l6YYum9QTZKeRWnivkvQVm18W6NuI/edit?usp=sharing
 
-
-
+## TOC Member
+List of NextArch Foundation official TOC member：[here](docs/election.md)
 
 ## TOC Responsibilities
 a. The TOC will be responsible for all technical oversight of the open source Project. 
@@ -74,5 +74,4 @@ d. In the event a vote cannot be resolved by the TOC, any voting member of the T
 This is our [voting policy](docs/voting.md). Only TOC members can cast binding votes. (+1 Binding)
 
 ## Special Interest Groups (SIGs) 
-The TOC will approved the formation of SIGs. Currently, the following Special Interest Groups are being considered:
-- TBD
+The TOC will approved the formation of SIGs. You can see more informations about SIGs proposal in [here](sigs/proposed.md).
