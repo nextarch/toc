@@ -10,11 +10,36 @@ The area overseen by a SIG is typically met by a set of NextArch Foundation proj
 long lived groups that report to the TOC
 led primarily by recognised experts in the relevant field(s), supported by other contributors
 
-## Responsibilities & Empowerment of SIGs
-TBD
+## Tech Lead list of SIGs
+| SIG Name | Name of Tech Lead | Email |
+| -------- | ----------------- | ----- |
+| SIG-DevOps | Yun Jing | jingyun@greatops.net |
+| SIG-CloudDev | Weida Zhao| gskzhao@tencent.com |
+| SIG-Edge | C.C. | cc@yomo.run|
+| SIG-MSG(Streaming and Messaging) | Dezhi Liu |dezhi.liu@streamnative.io|
+| SIG-Open Observability|Tonghao Zhang|zhangtonghao@didiglobal.com|
 
-## Specific SIG Responsibilities
-TBD
+## Responsibilities of Specific SIGs
+**Project Handling:**
+
+- Understand and document a high level roadmap of projects within this space, including NextArch and non-NextArch projects. Identify gaps in project landscape.
+- For projects that fall within the NextArch, perform health checks.
+- Perform discovery of and outreach to candidate projects.
+- Help candidate projects prepare for presentation to the TOC
+- Every project should choose one suitable SIG to join as a necessary part of donating to NextArch.
+
+**End User Education (Outbound Communication)**
+- Provide up-to-date, high quality, unbiased and easy-to-consume material to help end users to understand and effectively adopt technologies and practises within the SIG’s area, for example:
+   - White papers, presentations, videos, or other forms of training clarifying terminology, comparisons of different approaches, available projects or products, common or recommended practises, trends, illustrative successes and failures, etc.
+   - As far as possible, information should be based on research and fact gathering, rather than pure marketing or speculation.
+
+**End User Input Gathering (Inbound Communication)**
+- Gather useful end user input and feedback regarding expectations, pain points, primary use cases etc.
+
+**Community Enablement**
+- SIGs are open organizations with meetings, meeting agendas and notes, mailing lists, and other communications in the open.
+
+
 
 ## Operating Model
 TBD
