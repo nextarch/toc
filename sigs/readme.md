@@ -8,7 +8,7 @@ NextArch SIGs will oversee and coordinate the interests pertaining to a logical 
 The area overseen by a SIG is typically met by a set of NextArch Foundation projects, and may also represent a cross-cutting feature group shared by several projects. SIG’s are:
 
 long lived groups that report to the TOC
-led primarily by recognised experts in the relevant field(s), supported by other contributors
+led primarily by recognised experts in the relevant field(s), supported by other contributors.
 
 ## Tech Lead list of SIGs
 | SIG Name | Name of Tech Lead | Email |
@@ -25,7 +25,7 @@ led primarily by recognised experts in the relevant field(s), supported by other
 - Understand and document a high level roadmap of projects within this space, including NextArch and non-NextArch projects. Identify gaps in project landscape.
 - For projects that fall within the NextArch, perform health checks.
 - Perform discovery of and outreach to candidate projects.
-- Help candidate projects prepare for presentation to the TOC
+- Help candidate projects prepare for presentation to the TOC.
 - Every project should choose one suitable SIG to join as a necessary part of donating to NextArch.
 
 **End User Education (Outbound Communication)**
@@ -47,4 +47,4 @@ TBD
 ## How to Set Up SIGs
 You can set up a SIG by submitting an [issue](https://github.com/nextarch/toc/issues) and a [PR for approval](proposed.md).
 
-The proposed SIGs will be reported to the TOC, and the TOC will vote to determine the launch.
+The proposed SIGs will be reported to the TOC, and the TOC will vote to determine the launch and SIG Tech Lead.
