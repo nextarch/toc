@@ -4,7 +4,7 @@ The information should contain SIG name, Area, Abstract, Goal, and Presentation 
 
 The proposed SIGs will be reported to the TOC, and the TOC will vote to determine the launch (approved by a two-thirds vote).
 
-The proposed SIG must include the participation of 3-5 Foundation members, as well as the election of a SIG Tech Lead.
+The proposed SIGs must include the participation of 3-5 Foundation members, as well as the election of a SIG Tech Lead.
 
 A new repo of the SIG will be created after that.
 
