@@ -12,12 +12,18 @@ led primarily by recognised experts in the relevant field(s), supported by other
 
 ## Tech Lead list of SIGs
 | SIG Name | Name of Tech Lead | Email |
-| -------- | ----------------- | ----- |
+| -------- | ----------------- | ----- | ----- |
 | SIG-DevOps | Yun Jing | jingyun@greatops.net |
 | SIG-CloudDev | Weida Zhao| gskzhao@tencent.com |
 | SIG-Edge | C.C. | cc@yomo.run|
 | SIG-MSG(Streaming and Messaging) | Dezhi Liu |dezhi.liu@streamnative.io|
 | SIG-Open Observability|Tonghao Zhang|zhangtonghao@didiglobal.com|
+
+Tips：
+Tech Lead Responsibilities.
+- Assist TOC in the daily operation of SIG and develop SIG annual plan.
+- Tech Lead is valid for 1 year (elected by the initiating member or voted by everyone, can be elected continuously).
+- Regularly synchronize with TOC on SIG status (e.g. email/toc meeting, etc.).
 
 ## Responsibilities of Specific SIGs
 **Project Handling:**
@@ -40,9 +46,12 @@ led primarily by recognised experts in the relevant field(s), supported by other
 - SIGs are open organizations with meetings, meeting agendas and notes, mailing lists, and other communications in the open.
 
 
-
 ## Operating Model
-TBD
+- Organize internal Meeting regularly to ensure the efficiency of SIG annual plan implementation.
+- Discover and promote the candidate projects.
+
+## Exit Model
+- If the SIG is not active enough for one year, it is recommended that SIG Tech Lead/TOC members initiate a SIG withdrawal/adjustment request.
 
 ## How to Set Up SIGs
 You can set up a SIG by submitting an [issue](https://github.com/nextarch/toc/issues) and a [PR for approval](proposed.md).
