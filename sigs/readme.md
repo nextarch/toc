@@ -18,6 +18,7 @@ led primarily by recognised experts in the relevant field(s), supported by other
 | SIG-Edge | C.C. | cc@yomo.run|
 | SIG-MSG(Streaming and Messaging) | Dezhi Liu |dezhi.liu@streamnative.io|
 | SIG-Open Observability|Tonghao Zhang|zhangtonghao@didiglobal.com|
+| SIG-Microservice |Hongzhi Wang|ranchowang@tencent.com|
 
 ## Responsibilities of Specific SIGs
 **Project Handling:**
