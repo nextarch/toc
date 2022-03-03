@@ -12,7 +12,7 @@ led primarily by recognised experts in the relevant field(s), supported by other
 
 ## Tech Lead list of SIGs
 | SIG Name | Name of Tech Lead | Email |
-| -------- | ----------------- | ----- | ----- |
+| -------- | ----------------- | ----- |
 | SIG-DevOps | Yun Jing | jingyun@greatops.net |
 | SIG-CloudDev | Weida Zhao| gskzhao@tencent.com |
 | SIG-Edge | C.C. | cc@yomo.run|
