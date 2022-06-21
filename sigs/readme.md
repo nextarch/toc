@@ -21,6 +21,7 @@ led primarily by recognised experts in the relevant field(s), supported by other
 | SIG-Microservice | Hongzhi Wang |ranchowang@tencent.com|
 | SIG-Load Balance | Wanlong Lu |wanlong.lu@yeepay.com|
 | SIG-DataBase | Chun Chang |xxx@xxx.com　|
+| SIG-Chaos Engineering | Yili Chen |xxx@xxx.com　|
 
 Tips：
 Tech Lead Responsibilities.
