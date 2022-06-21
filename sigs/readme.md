@@ -17,8 +17,10 @@ led primarily by recognised experts in the relevant field(s), supported by other
 | SIG-CloudDev | Weida Zhao| gskzhao@tencent.com |
 | SIG-Edge | C.C. | cc@yomo.run|
 | SIG-MSG(Streaming and Messaging) | Dezhi Liu |dezhi.liu@streamnative.io|
-| SIG-Open Observability|Tonghao Zhang|zhangtonghao@didiglobal.com|
-| SIG-Microservice |Hongzhi Wang|ranchowang@tencent.com|
+| SIG-Open Observability| Tonghao Zhang |zhangtonghao@didiglobal.com|
+| SIG-Microservice | Hongzhi Wang |ranchowang@tencent.com|
+| SIG-Load Balance | Wanlong Lu |wanlong.lu@yeepay.com|
+| SIG-DataBase | Chun Chang |xxx@xxx.com　|
 
 Tips：
 Tech Lead Responsibilities.
