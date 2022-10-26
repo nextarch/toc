@@ -50,24 +50,25 @@ xxx
 
 xxx
 
-**Social media accounts**
+**Social media accounts**:
 
 xxx
 
-**Communication channels**
+**Communication channels**:
 
 xxx
 
-**Adopters or potential users?**
+**Adopters or potential users?**:
 
 xxx
 
-**Existing sponsorship**
+**Existing sponsorship**:
 
 xx
-**Statement on alignment with NextArch Foundation charter mission**
 
+**Statement on alignment with NextArch Foundation charter mission**:
+xxx
 
 **What are we looking for from NextArch Foundation**:
-
+xxx
 
